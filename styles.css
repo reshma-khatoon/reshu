@@ -1,0 +1,175 @@
+#header{
+    margin: 20px 5px;
+    font-size: x-large;
+    
+}ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color:black;
+  } 
+  
+  li a:hover:not(.active) {
+    background-color: rgb(169, 164, 164);
+  } 
+
+a{
+    text-decoration: none;
+    color:black;
+    display: inline-block;
+}
+
+.menu {
+    float:right
+}
+
+#back-img{
+    border: 1px;
+    height:700px;
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+}
+
+.ar {
+    padding-top: 320px;
+    color:white;
+    margin-top: 0;
+
+}
+
+.BR {background-color: rgb(67, 65, 65);
+padding: 10px;}
+
+.about{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.a-1 {
+    width: 345px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.about img {
+    width: 350px;
+}
+
+
+#back-img > .ar{
+    color:solid black;
+    text-align: center;
+
+    font-size: xx-large;
+}
+.p{
+    margin:30px 2px;
+    font-size: xx-large;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .top-left {
+    position: absolute;
+    top: 11px;
+    left: 10px;
+    background-color: black;
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+.flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+ 
+ 
+ .flex-container img {
+    width: 350px;
+ } 
+
+  .flex-item {
+    padding: 10px;
+    flex: 100%;
+  }
+  
+
+
+.btnn{
+    border:1px solid black;
+    padding: 4px 8px;
+    color:white;
+    display: inline-block;
+    background-color: black;
+    margin:10px auto 10px;
+}
+.btnn-2{
+    border:1px solid black;
+    padding: 4px 8px;
+    color:white;
+    display: inline-block;
+    background-color: black;
+    margin:5px auto;
+}
+.ab{
+    margin:30px 10px 10px 10px;
+    font-size: xx-large;
+}
+.p{
+    text-align: justify;
+    font-size: large;
+    margin: 0 10px 15px 10px;
+}
+.cnt{
+    
+    margin:30px 2px;
+    font-size: xx-large;
+}
+.Contact{
+    margin:20px 10px;
+    font-size: large;
+}
+.f{
+    padding:8px 16px;
+    font-size: x-large;
+    width:90%;
+margin:5px auto;
+}
+.btn{
+    background-color: black;
+    color:white;
+    padding:8px 16px;
+    margin:15px 3px;
+}
+.w3-image{
+    border: 1px;
+    height:700px;
+    background-image: url(/w3images/map.jpg);
+}
+.footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:8px 16px;
+    font-size: large;
+}
+
+
+
+
